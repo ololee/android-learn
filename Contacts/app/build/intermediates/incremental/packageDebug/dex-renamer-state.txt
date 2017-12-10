@@ -1,0 +1,7 @@
+#Sun Dec 10 17:29:44 CST 2017
+base.0=E\:\\Android\\Contacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4967df7163fc42f0493eb2b63230af51aed4742
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android\\Contacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38d43af8bc75cedfd44d3708a38527c5313a1a20\\classes.dex
+base.1=E\:\\Android\\Contacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38d43af8bc75cedfd44d3708a38527c5313a1a20
+file.0=E\:\\Android\\Contacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4967df7163fc42f0493eb2b63230af51aed4742\\classes.dex

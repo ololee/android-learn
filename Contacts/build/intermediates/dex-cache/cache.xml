@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\Contacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_38d43af8bc75cedfd44d3708a38527c5313a1a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Contacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2972fe8fd371cdd9c931c6342174f7a00ae741ba">
+        <dex dex="E:\Android\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d4967df7163fc42f0493eb2b63230af51aed4742\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Sun Dec 10 16:32:37 CST 2017
+base.0=E\:\\Android\\Contacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\Android\\Contacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

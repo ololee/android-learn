@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\Contacts\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\Android\\Contacts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Contacts\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\Contacts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
